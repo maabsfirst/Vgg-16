@@ -1,5 +1,4 @@
-Brain Tumor Detection (VGG16 CNN)
-
+> Brain Tumor Detection (VGG16 CNN)
 Short description: Binary classification of MRI scans (tumor vs. no tumor) using transfer‑learned VGG16.
 
 Dependencies: Python 3.8+, TensorFlow/Keras, OpenCV, numpy, pandas, scikit-learn, matplotlib, kaggle.
